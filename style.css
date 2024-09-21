@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+ul{
+    list-style: none;
+}
+.li1{
+    position: absolute;
+    left: ;
+    right: ;
+    bottom: ;
+    top: ;
+    background-color: #000000;
+    width: 200px;
+    height: 200px;
+}
+.li2{
+    z-index: 1;
+    position: absolute;
+    left : 100px;
+    right: ;
+    bottom: ;
+    top: 100px;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+.li3{
+    left: 200px;
+    right: ;
+    bottom: ;
+    top: 200px;
+    position: absolute;
+    background-color: #ff0000;
+    width: 200px;
+    height: 200px;
+}
+.div{
+    position: relative;
+}
